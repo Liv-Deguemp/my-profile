@@ -1,0 +1,164 @@
+
+
+body{
+	font-family: Arial, serif; 
+	background:#00305c;
+	text-align: center;	
+	color: whitesmoke;
+	font-family: zen antique soft;
+} 
+
+
+h1{
+	font-weight: bolder;
+	font-size: 35px;
+	color: whitesmoke;
+	text-decoration: none;
+}
+
+
+h2{
+	color: whitesmoke;
+	margin: 0;
+	padding-top: 0px;	
+}
+
+
+
+img{
+	border-radius: 0%;
+	width: 200px;
+}
+
+
+ul li{
+	list-style: none;
+	color: whitesmoke;
+	font-size: 25px;
+	line-height: 1.4;	
+}
+
+ul li a:hover{
+	color: powderblue;
+}
+
+ul{
+	padding:0px;
+	display: flex;
+    justify-content: center;
+}
+
+i {
+	padding: 0 10px;
+	font-size: 40px;
+}
+
+a{
+	color: whitesmoke;
+	font-size: 20px;
+}
+
+.zorba h2{
+	padding-bottom: 16px;
+}
+
+
+.profile{
+	background-image: url("image/fond-profile.jpeg");
+	background-size: cover;
+	height: auto;
+	width: auto;
+}
+
+.background-image {
+	background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thesprucepets.com%2Fcute-teacup-dog-breeds-4587847&psig=AOvVaw365K_c-Om8i1x--BINrbwg&ust=1635860818040000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJi8wsqm9_MCFQAAAAAdAAAAABAD");
+	margin: 0 auto;
+	width: 700px;
+}
+
+
+
+.abbamusicnote{
+	font-size: 30px;
+	margin: 0px auto;
+	height: 0px;
+	text-align: right;
+}
+
+
+.button{
+
+	background-color: purple;
+	text-decoration: none;
+	padding: 14px 5px;
+	border-radius: 10px ;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+.button:hover {
+	background-color: darkgreen;
+}
+
+.abbalogopicture{
+
+	max-width: 100%;
+	height: auto;
+	display: inline-block;
+	margin-left: auto;
+	margin-bottom: 0;
+	margin-right: auto;
+
+	width: 50%;
+}
+
+
+.cheroutfit{
+
+	max-width: 100%;
+	height: auto;
+	padding: 3px; 
+}
+
+.card-white{
+	background-color: #00305c;
+	margin: 10px 0;
+	padding: 20px ;
+	box-shadow: 4px 10px 0 rgba(0, 0, 0, 0.1);
+	text-align: center;
+}
+
+.pulpfiction{
+	background-image: url("image/");
+	background-size: cover;
+	height: auto;
+	width: auto;
+	max-width: 100%;
+	height: auto;
+
+}
+
+
+.discoball{
+	background-image: url("image/discoball.jpeg");
+	background-size: cover;
+
+}
+
+
+@media (max-width: 600px) {
+  .background-image {
+    width: 400px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
